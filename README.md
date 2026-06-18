@@ -115,11 +115,7 @@ Connection Details:
 
 ### Proteus Schematic
 
-Add your schematic image here:
-
-```markdown
-![Pedestrian Crossing Controller](images/schematic.png)
-```
+![image alt](https://github.com/Abiramisankar0425/Pedestrian-Crossing-Traffic-Controller/blob/94d0ebc703a423fbf8a0bf57dd939a1566b64ae9/pedestrian_crossing.png)
 
 ---
 
